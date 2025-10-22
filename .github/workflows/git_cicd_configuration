@@ -1,0 +1,4 @@
+Push the code to git to run the cicd
+Now to run the git with action , 1st go to settings , then pages
+After you reach the page , then under build and deployment under source change to github actions.
+Now how to check the url that the deployment is done, go to settings then , you will see the option as Your site is live at example:https://vi20sept.github.io/GITCICD/
